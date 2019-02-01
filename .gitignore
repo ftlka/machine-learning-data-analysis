@@ -3,3 +3,6 @@
 *.ipynb_checkpoints
 *.csv
 *.dat
+*.json
+*.batch
+*.pdf
